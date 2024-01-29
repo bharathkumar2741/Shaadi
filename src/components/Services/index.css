@@ -1,0 +1,60 @@
+.bg-Services {
+  background-color: white;
+  height: 200vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+}
+.india-head {
+  text-align: center;
+  color: coral;
+  padding-top: 40px;
+}
+.lan-card {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.bg-lan {
+  padding: 20px;
+  text-align: center;
+  width: 30%;
+  padding-left: 20px;
+}
+.pad1 {
+  padding-bottom: 45px;
+}
+.pad2 {
+  padding-bottom: 25px;
+}
+.do-head {
+  color: coral;
+}
+.logo-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: #f5f5f5;
+  width: 100%;
+  height: 100px;
+}
+.play-logo {
+  height: 100px;
+  margin: 20px;
+}
+.app-logo {
+  height: 100px;
+}
+.shaadi-para {
+  padding-left: 50px;
+  width: 80%;
+}
+.site-nav {
+  display: flex;
+  flex-direction: row;
+}

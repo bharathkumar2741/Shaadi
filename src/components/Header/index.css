@@ -1,0 +1,17 @@
+.bg-header {
+  color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.saadi-head {
+  padding-right: 450px;
+}
+.login-head {
+  padding-left: 450px;
+  display: flex;
+}
+.help-head {
+  padding-left: 20px;
+}
